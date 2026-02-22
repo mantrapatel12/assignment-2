@@ -19,7 +19,6 @@ if number % 2 == 0:
 else:
     print(f"{number} is an odd number.")
 ▶ Example Output
-Copy code
 
 Enter a number: 7
 7 is an odd number.
@@ -36,7 +35,6 @@ Calculates the sum of all integers in this range.
 Displays the final sum.
 Code
 Python
-Copy code
 # Task 2: Sum of Integers from 1 to 50 Using a Loop
 
 total = 0
