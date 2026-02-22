@@ -22,7 +22,6 @@ else:
 
 Enter a number: 7
 7 is an odd number.
-Copy code
 
 Enter a number: 12
 12 is an even number.
